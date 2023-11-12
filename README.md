@@ -25,6 +25,10 @@
 #define PS2CLK A5<br>
 ![md6_ps2](/img/md6_ps2.png)
 
+//マウス認識時LEDピン 点灯と移動時の点滅<br>
+#define LED 8<br>
+
+※LEDは適当な抵抗かませてください。不要なら接続しなくてもOK<br>
 ※5VとGNDの接続も忘れずに!<br>
 ※画像はyagura様の[コネクタ資料室](http://nkmm.org/yagura/lib/)より引用させていただきました
 
