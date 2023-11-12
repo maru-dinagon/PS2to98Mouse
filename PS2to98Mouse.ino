@@ -1,7 +1,7 @@
 /*
  *  PS/2マウス -> PC-98バスマウス
  *  for Arduino Nano　2023/10/22
- *  
+ *  ボード Arduino Nano ArduinoStudio 2.x
  * References And Thanks
  *  https://github.com/tyama501/ps2busmouse98
  */
