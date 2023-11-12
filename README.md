@@ -38,6 +38,6 @@
 
 ## 参考サイト・謝辞
 このコードを作るにあたり、とても参考にさせていただきました。この場を借りてお礼申し上げます。<br>
-[https://github.com/tyama501/ps2busmouse98](https://github.com/tyama501/ps2busmouse98)
+[https://github.com/tyama501/ps2busmouse98](https://github.com/tyama501/ps2busmouse98)<br>
 [http://miha.jugem.cc/?eid=114](http://miha.jugem.cc/?eid=114)
 
