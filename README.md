@@ -1,6 +1,11 @@
 # PS2to98Mouse
  PS/2キーボードをArduinoNanoを用いて、98用バスマウスに変換
 
+ tyama501さんが公開されているコードでは現在販売されている<br>
+ [エレコム マウス 有線 Mサイズ 3ボタン PS2 光学式 ホワイト ROHS指令準拠 M-K6P2RWH/RS ](https://amzn.to/3swwrgN)
+ 
+ 
+
 ## 必要なライブラリ
 [PS/2デバイス用ライブラリ](https://playground.arduino.cc/ComponentLib/Ps2mouse/)
 
