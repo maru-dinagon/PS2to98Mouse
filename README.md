@@ -25,7 +25,7 @@
 
 
 ## 紹介と仕様解説ブログ
-<!-- [[PC-98][Arduino]PS/2キーボードをArduinoでPC-98につなげる](https://androiphone.uvs.jp/?p=4066)>
+<!-- [[PC-98][Arduino]PS/2キーボードをArduinoでPC-98につなげる](https://androiphone.uvs.jp/?p=4066) >
 
 ## 参考サイト・謝辞
 このコードを作るにあたり、とても参考にさせていただきました。この場を借りてお礼申し上げます。<br>
